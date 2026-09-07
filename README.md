@@ -87,6 +87,24 @@ reputation, and filtering policies.
 
 ---
 
+## Beyond Desktop
+
+Phoenix is being built with a broader, cross-platform vision. A dedicated
+mobile experience is part of the product roadmap, designed to extend Phoenix
+beyond the desktop and provide seamless access to personal finances across
+devices.
+
+## Contact
+
+Phoenix is built to evolve with the people who use it. If you have an idea for
+a new feature, a suggestion for improving the experience, have found a problem
+or unexpected behavior, or simply want to share feedback about Phoenix, your
+input is welcome.
+
+For feedback, suggestions, bug reports, or general questions, contact:
+
+**phoenix.finance.contact@gmail.com**
+
 ## Verify your download
 
 Every official Phoenix release includes a **`SHA256SUMS`** file.
