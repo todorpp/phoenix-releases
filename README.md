@@ -28,10 +28,19 @@ Download:
 
 **`Phoenix-1.0.2-x86_64.AppImage`**
 
-Make it executable and launch it:
+After downloading, open a terminal and run:
 
+    cd ~/Downloads
     chmod +x Phoenix-1.0.2-x86_64.AppImage
     ./Phoenix-1.0.2-x86_64.AppImage
+
+The first command opens your Downloads folder, the second makes the AppImage
+executable, and the third starts Phoenix.
+
+**Important:** Some Linux desktop environments may try to open an AppImage
+with a disk/image utility when it is double-clicked. If you see an option such
+as **Restore Disk Image**, cancel it. Do not restore the AppImage to a disk.
+Launch Phoenix using the terminal commands above instead.
 
 ### macOS — Apple Silicon
 
