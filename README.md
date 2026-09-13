@@ -20,19 +20,27 @@ Download:
 
 **`Phoenix.exe`**
 
+> ⚠️ **Windows security warning**
+>
+> Phoenix is not code-signed yet, so Windows Defender SmartScreen may show
+> **“Windows protected your PC”** or **“Unknown publisher.”**
+>
+> If you downloaded Phoenix from this official release page, click
+> **More info → Run anyway** to continue with the installation.
+
 Run the installer and follow the installation steps.
 
 ### Linux
 
 Download:
 
-**`Phoenix-1.0.2-x86_64.AppImage`**
+**`Phoenix-1.1.0-x86_64.AppImage`**
 
 After downloading, open a terminal and run:
 
     cd ~/Downloads
-    chmod +x Phoenix-1.0.2-x86_64.AppImage
-    ./Phoenix-1.0.2-x86_64.AppImage
+    chmod +x Phoenix-1.1.0-x86_64.AppImage
+    ./Phoenix-1.1.0-x86_64.AppImage
 
 The first command opens your Downloads folder, the second makes the AppImage
 executable, and the third starts Phoenix.
@@ -46,13 +54,13 @@ Launch Phoenix using the terminal commands above instead.
 
 For Macs with Apple Silicon:
 
-**`Phoenix-1.0.2-arm64.dmg`**
+**`Phoenix-1.1.0-arm64.dmg`**
 
 ### macOS — Intel
 
 For Intel-based Macs:
 
-**`Phoenix-1.0.2-x64.dmg`**
+**`Phoenix-1.1.0-x64.dmg`**
 
 ---
 
